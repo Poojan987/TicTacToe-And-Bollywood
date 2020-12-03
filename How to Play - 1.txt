@@ -1,0 +1,7 @@
+Playing Tic Tac Toe:
+1. This game requires two players for playing
+2. One player gets a cross (x) and the other one gets a zero (0)
+3. The player with the zero (0) is supposed to start the game and place his zero at any of the nine places
+4. The player with the cross (x) gets the second turn and can place his cross at any of the remaining places
+5. The players can block the opponents path and start their own path from there
+6. The player which is able to get three zeros/crosses first in a row/column/diagonally wins

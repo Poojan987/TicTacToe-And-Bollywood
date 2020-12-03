@@ -1,0 +1,8 @@
+Playing Bollywood:
+1. This game requires two players for playing
+2. One player gives the Movie/TV Series' name and the other has to guess it
+3. The player giving the Movie/TV Series is suppossed to give the actor's name and actress' name for hints
+4. Vowels, if occuring in the name, will be displayed directly
+5. The player guessing the name will get 9 chances
+6. Hints will be supplied after the 4th and 7th attempt
+7. If the player guesses correctly, he/she wins and if not, the player who gave it wins
