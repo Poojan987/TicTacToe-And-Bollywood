@@ -21,3 +21,7 @@ B) How to play Bollywood:
 5. The player guessing the name will get 9 chances
 6. Hints will be supplied after the 4th and 7th attempt
 7. If the player guesses correctly, he/she wins and if not, the player who gave it wins
+
+
+Extra Facilities:
+->Background Colour Changes on choosing any one of this.
