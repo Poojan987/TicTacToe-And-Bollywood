@@ -1,6 +1,6 @@
 # TicTacToe-And-Bollywood
 
-## This is a c project.
+## This is a project made in c-language.
 
 
 A) How to play Tic Tac Toe:
